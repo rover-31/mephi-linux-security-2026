@@ -1,0 +1,15 @@
+   129031     40 -rwsr-xr-x   1 root     root        37512 Oct 31 13:41 /home/user1/blackcat
+    21718    200 ---s--x--x   1 root     root       202312 Mar  1  2023 /usr/bin/sudo
+    22121     32 -rwsr-xr-x   1 root     root        32744 Jan 20  2022 /usr/bin/passwd
+    22555     60 -rwsr-xr-x   1 root     root        58128 Jun  1  2022 /usr/bin/su
+    22072     32 -rwsr-xr-x   1 root     root        32488 Feb 21  2022 /usr/bin/pkexec
+    22438     52 -rwsr-xr-x   1 root     root        49240 Jun  1  2022 /usr/bin/mount
+    21790     80 -rwsr-xr-x   1 root     root        78672 Mar 27  2023 /usr/bin/gpasswd
+    21793     44 -rwsr-xr-x   1 root     root        42376 Mar 27  2023 /usr/bin/newgrp
+    22444     40 -rwsr-xr-x   1 root     root        36888 Jun  1  2022 /usr/bin/umount
+    21789     76 -rwsr-xr-x   1 root     root        74792 Mar 27  2023 /usr/bin/chage
+    21468     20 -rwsr-xr-x   1 root     root        20264 Feb 21  2022 /usr/lib/polkit-1/polkit-agent-helper-1
+    22929     32 -rwsr-xr-x   1 root     root        28688 Jul 21  2022 /usr/sbin/unix_chkpwd
+    22927     16 -rwsr-xr-x   1 root     root        16168 Jul 21  2022 /usr/sbin/pam_timestamp_check
+    23005     16 -rwsr-xr-x   1 root     root        16312 Mar 23  2023 /usr/sbin/usernetctl
+    22694     16 -rwsr-xr-x   1 root     root        15512 Mar 27  2023 /usr/sbin/grub2-set-bootflag
